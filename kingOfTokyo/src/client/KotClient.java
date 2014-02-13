@@ -7,6 +7,10 @@ import javax.swing.JButton;
 
 import java.awt.BorderLayout;
 
+/*
+ * This doesn't really exist yet. Please don't expect it to work. The client is still telnet.
+ */
+
 public class KotClient {
 	public static void CreateAndShowGUI() {
 		JFrame frame = new JFrame("KingOfTokyo");
